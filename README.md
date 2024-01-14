@@ -10,6 +10,6 @@ A game feed is an array of objects where each object is an event in the game. Ea
 
 # Table of Contents
 1. Project Report:
-- [AmongUs_MongoDB_Report.pdf](https://github.com/Xue-Liu-Alexia/Credit-Card-Approval-Prediction_SAS-Model/blob/main/Credit%20Card%20Approval%20Prediction.sas)
+- [AmongUs_MongoDB_Report.pdf](https://github.com/Xue-Liu-Alexia/AmongUs_MongoDB/blob/main/AmongUs_MongoDB_Report.pdf)
 2. Presentation:
-- [AmongUs_MongoDB_Presentation.pptx](https://github.com/Xue-Liu-Alexia/Credit-Card-Approval-Prediction_SAS-Model/blob/main/Credit%20Card%20Approval%20Prediction_Report.pdf)
+- [AmongUs_MongoDB_Presentation.pptx](https://github.com/Xue-Liu-Alexia/AmongUs_MongoDB/blob/main/AmongUs_MongoDB_Presentation.pptx)
